@@ -49,7 +49,7 @@ with overview:
 	with st.expander('See the dataset', icon=':material/table:'):
 		st.caption('''
 		The dataset contains demographic and health-related information for individuals,
-		along with their corresponding medical insurance charges
+		along with their corresponding health insurance charges
 		''')
 		show_dataset()
 	
